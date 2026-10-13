@@ -1,0 +1,60 @@
+{
+  "architectural_lifecycle": [
+    {
+      "step": 1,
+      "name": "Discovery & Audit",
+      "duration": "1 - 2 Weeks",
+      "deliverables": "Deep-dive audit into workflows, codebases, and technical debt. Identification of invisible friction points and bottleneck analysis."
+    },
+    {
+      "step": 2,
+      "name": "Strategy & Blueprinting",
+      "duration": "1 - 2 Weeks",
+      "deliverables": "Custom architectural roadmap mapping system logic, AI integration points, data pipelines, and cloud scalability modules."
+    },
+    {
+      "step": 3,
+      "name": "High-Fidelity Design",
+      "duration": "2 - 3 Weeks",
+      "deliverables": "Cinematic, user-centric prototypes turning complex technical workflows into intuitive, high-conversion human experiences."
+    },
+    {
+      "step": 4,
+      "name": "Technical Implementation",
+      "duration": "4 - 8 Weeks",
+      "deliverables": "Sprint-based engineering of robust AI engines, backend microservices, resilient APIs, and production frontend code."
+    },
+    {
+      "step": 5,
+      "name": "Quality & Integrity Check",
+      "duration": "1 - 2 Weeks",
+      "deliverables": "Rigorous automated testing, security vulnerability scans, load stress-testing, and compliance verification."
+    },
+    {
+      "step": 6,
+      "name": "Deployment & Evolution",
+      "duration": "Ongoing",
+      "deliverables": "Zero-downtime production deployment, real-time observability telemetry, and ROI-driven continuous iteration."
+    }
+  ],
+  "engagement_models": [
+    {
+      "model": "Strategic Discovery & MVP Blueprint",
+      "typical_budget": "$5,000 - $12,000",
+      "timeline": "2 - 4 Weeks",
+      "best_for": "Early-stage founders and corporate innovators testing new AI concepts with minimal capital risk."
+    },
+    {
+      "model": "Full Architectural Build & Custom AI Agent Engine",
+      "typical_budget": "$15,000 - $45,000",
+      "timeline": "6 - 12 Weeks",
+      "best_for": "Scaling companies requiring custom autonomous agents, enterprise RAG, or bespoke full-stack platforms."
+    },
+    {
+      "model": "Enterprise DevSecOps & Dedicated Engineering Pod",
+      "typical_budget": "$8,000 - $20,000 / month",
+      "timeline": "Quarterly Retainer",
+      "best_for": "High-growth organizations needing dedicated senior architects and continuous cloud/AI scaling."
+    }
+  ]
+}

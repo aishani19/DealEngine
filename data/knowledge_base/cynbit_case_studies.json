@@ -1,0 +1,34 @@
+[
+  {
+    "client": "Marketing Addict",
+    "domain": "Strategic Growth & Technical SEO",
+    "outcome_headline": "+40% Growth in Organic Inbound Leads",
+    "challenge": "Client struggled with legacy CMS bottlenecks, poor Core Web Vitals, and stagnant organic search visibility.",
+    "solution": "Cynbit refactored the digital architecture to a headless Next.js stack, optimized schema markup, and instituted an automated technical SEO engine.",
+    "testimonial": "Cynbit transformed our technical infrastructure, resulting in a 40% increase in organic leads. Their approach is revolutionary."
+  },
+  {
+    "client": "Evento",
+    "domain": "Enterprise SaaS & AI Automation",
+    "outcome_headline": "Zero-Latency Performance with 50,000+ Concurrent Users",
+    "challenge": "High concurrency ticketing platform suffered from frequent server drops and slow database lockups during flash ticket sales.",
+    "solution": "Engineered an optimistic cloud architecture on AWS with Redis caching queues, serverless scaling workers, and automated load balancing.",
+    "testimonial": "The AI automation handled 50k+ users without a single flicker of latency. True engineering rigor."
+  },
+  {
+    "client": "Urban Wardrobe",
+    "domain": "Global Retail & Cloud Infrastructure",
+    "outcome_headline": "99.9% Uptime Across Global Geographies",
+    "challenge": "Rapidly growing international fashion e-commerce brand required multi-region high availability and robust data compliance.",
+    "solution": "Constructed multi-region AWS zero-trust architecture with CDN edge caching, failover clusters, and automated continuous deployment.",
+    "testimonial": "Cynbit's cloud architecture gave us the global stability we needed to expand our digital footprint rapidly."
+  },
+  {
+    "client": "Cloudy Tales",
+    "domain": "Creative Studio & Full-Stack Platform",
+    "outcome_headline": "100% On-Time Project Launch and User Retention Surge",
+    "challenge": "Needed a modern digital experience platform uniting multimedia storytelling with subscription memberships.",
+    "solution": "Full-cycle delivery from high-fidelity UX blueprint to resilient cloud backend with integrated recurring payments.",
+    "testimonial": "From the first blueprint to final deployment, the Cynbit team acted as true architects of our story."
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "srv-ai-agents",
+    "domain": "AI Automation",
+    "title": "Autonomous AI Agents & Custom LLM Systems",
+    "summary": "Custom LLMs, multi-agent cognitive architectures, autonomous workflow orchestrators, and enterprise RAG engines designed for cognitive operations.",
+    "capabilities": [
+      "Multi-agent autonomous systems using LangChain, LangGraph, and AutoGen",
+      "Enterprise Retrieval-Augmented Generation (RAG) with vector databases and source citations",
+      "Fine-tuned open-source LLMs (Llama 3, Mistral, DeepSeek) and commercial APIs",
+      "Context-aware workflow automation, CRM assistants, and automated customer triage",
+      "Prompt guardrails, evaluation benchmarks, and latency optimization"
+    ],
+    "ideal_fit": "Companies drowning in manual triage, sales prospecting, customer support, or complex internal knowledge querying seeking 70%+ automation.",
+    "pricing_tier": "Custom Discovery + Phased Sprint Architecture (typically $8,000 - $45,000 based on complexity and integrations)."
+  },
+  {
+    "id": "srv-software-dev",
+    "domain": "Software Engineering",
+    "title": "Full-Stack Custom Web & Mobile Development",
+    "summary": "High-performance digital architecture, scalable web apps, and mobile applications engineered with modern stacks and optimistic UI design.",
+    "capabilities": [
+      "Modern Web Applications (Next.js, React, TypeScript, FastAPI, Node.js)",
+      "Cross-platform Mobile Development (React Native, Flutter, Swift/Kotlin)",
+      "API-first microservices, event-driven backends, and GraphQL architectures",
+      "Database architecture with PostgreSQL, Redis caching, and vector stores",
+      "Production-grade test automation and automated CI/CD deployment pipelines"
+    ],
+    "ideal_fit": "Startups launching disruptive MVPs or enterprises refactoring monolithic legacy applications into modern high-throughput architectures.",
+    "pricing_tier": "Sprint-based milestones (typically $10,000 - $60,000+ depending on scope)."
+  },
+  {
+    "id": "srv-cloud-infra",
+    "domain": "Cloud Infrastructure",
+    "title": "Zero-Trust Cloud & DevSecOps Foundation",
+    "summary": "Zero-trust deployment, automated cloud scaling, and serverless architectures across AWS and Microsoft Azure for mission-critical reliability.",
+    "capabilities": [
+      "AWS and Azure cloud architecture design and migration",
+      "Kubernetes (EKS/AKS), Docker containerization, and Terraform Infrastructure as Code (IaC)",
+      "Zero-trust security policies, secrets vaulting, and compliance hardening",
+      "Automated CI/CD pipelines with GitHub Actions / GitLab CI",
+      "24/7 monitoring, auto-scaling clusters, and cost-reduction audits"
+    ],
+    "ideal_fit": "Organizations scaling beyond 10,000+ daily active users requiring 99.9% uptime SLAs and airtight security compliance.",
+    "pricing_tier": "Infrastructure setup ($5,000 - $20,000) or managed cloud architecture retainer ($2,500 - $7,500/mo)."
+  },
+  {
+    "id": "srv-digital-growth",
+    "domain": "Digital Marketing & SEO",
+    "title": "Technical SEO & Data-Driven Growth Engines",
+    "summary": "Technical SEO audits, programmatic content generation, conversion rate optimization (CRO), and organic discovery engines merging technical precision with creative growth.",
+    "capabilities": [
+      "Core Web Vitals optimization and programmatic SEO architecture",
+      "Schema markup, semantic search indexing, and international SEO",
+      "Analytics instrumentation (GA4, Mixpanel, BigQuery) and attribution modeling",
+      "Conversion funnel auditing and automated growth loops"
+    ],
+    "ideal_fit": "B2B SaaS and high-growth consumer platforms seeking organic CAC reduction and high-intent inbound lead generation.",
+    "pricing_tier": "Monthly growth retainers starting from $2,000/mo."
+  }
+]

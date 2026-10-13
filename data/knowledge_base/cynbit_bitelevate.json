@@ -1,0 +1,25 @@
+{
+  "program_name": "BitElevate",
+  "tagline": "Architect your future - Unstructured learning ecosystem",
+  "overview": "Globally recognized training academy and mentorship program designed to bridge the gap between academic theory and high-demand architectural engineering mastery.",
+  "metrics": {
+    "certified_architects": "1,000+",
+    "placement_partners": "Top-tier tech startups and global engineering firms",
+    "curriculum_style": "Project-based, mentor-led unstructured exploration with enterprise rigor"
+  },
+  "core_tracks": [
+    {
+      "track": "Full-Stack Software Architecture",
+      "focus": "Modern React/Next.js frontends, FastAPI/Node microservices, SQL/NoSQL schema modeling, CI/CD automation."
+    },
+    {
+      "track": "AI Engineering & Autonomous Agents",
+      "focus": "LLM fine-tuning, RAG pipelines, Vector databases (Chroma, Pinecone), LangChain/LangGraph, prompt engineering and guardrails."
+    },
+    {
+      "track": "Cloud & DevSecOps",
+      "focus": "AWS/Azure zero-trust foundations, Docker containerization, Kubernetes, Terraform IaC, monitoring and observability."
+    }
+  ],
+  "student_diaries": "Real case stories of university graduates and career switchers who accelerated into 6-figure tech salaries through BitElevate's intense hands-on architectural sprints."
+}

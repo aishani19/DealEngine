@@ -1,0 +1,41 @@
+[
+  {
+    "id": "prod-cynbit-studio",
+    "name": "Cynbit Studio",
+    "tagline": "Career Intelligence Platform",
+    "description": "Next-gen career intelligence and portfolio architecture platform designed for engineers, architects, and technical professionals to build dynamic resumes, showcase project artifacts, and match with verified tech roles.",
+    "features": [
+      "AI resume optimization and ATS scoring",
+      "Dynamic portfolio site generator with GitHub sync",
+      "Real-time technical competency assessment radar",
+      "Direct pipeline to vetted tech employers"
+    ],
+    "target_users": "Software engineers, tech students, and hiring managers."
+  },
+  {
+    "id": "prod-revio",
+    "name": "Revio",
+    "tagline": "AI Review Assistant & Reputation Copilot",
+    "description": "Autonomous AI assistant that monitors, analyzes, and drafts context-aware responses to customer reviews across Google Business, Trustpilot, G2, and social media platforms.",
+    "features": [
+      "Multi-platform review aggregation and sentiment analysis",
+      "Autonomous, tone-aligned response draft generation with human review safeguards",
+      "Negative feedback alert routing and escalation triggers",
+      "Customer sentiment analytics dashboard with root-cause clustering"
+    ],
+    "target_users": "Hospitality, retail chains, local service businesses, and SaaS companies."
+  },
+  {
+    "id": "prod-tenantease",
+    "name": "TenantEase",
+    "tagline": "Comprehensive Property & Tenant Management Ecosystem",
+    "description": "All-in-one SaaS platform streamlining landlord-tenant communications, lease agreement tracking, automated rent collection, digital maintenance dispatch, and property portfolio analytics.",
+    "features": [
+      "Automated digital lease signing and KYC verification",
+      "Payment gateway integration with automated rent reminders via WhatsApp & Email",
+      "Smart maintenance ticket routing with photo diagnosis and contractor assignment",
+      "Occupancy analytics, yield forecasting, and expense ledger"
+    ],
+    "target_users": "Property managers, real estate firms, co-living operators, and independent landlords."
+  }
+]
